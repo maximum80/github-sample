@@ -1,0 +1,20 @@
+{
+  "name": "challenge-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "takayukioda",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "request-debug": "^0.2.0"
+  },
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}

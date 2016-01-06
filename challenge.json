@@ -1,0 +1,10 @@
+{
+  "editable": [
+    "application/github.js"
+  ],
+  "exclude": [
+    "challenge.json",
+    "specifications/env.json"
+  ],
+  "test": "mocha --recursive specifications"
+}
